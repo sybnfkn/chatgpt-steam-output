@@ -20,6 +20,7 @@ import java.util.concurrent.TimeUnit;
  *
  * @author https:www.unfbx.com
  * @date 2023-02-28
+ *
  */
 @SpringBootApplication
 public class ChatgptSteamOutputApplication {
